@@ -1,0 +1,17 @@
+{
+  "email": {
+    "server": "imap.uol.com.br",
+    "port": 993,
+    "username": "seuemail@uol.com.br",
+    "password": "suasenha",
+    "folder": "INBOX"
+  },
+  "whatsapp": {
+    "account_sid": "SEU_ACCOUNT_SID_TWILIO",
+    "auth_token": "SEU_AUTH_TOKEN_TWILIO",
+    "from_number": "whatsapp:+14155238886",
+    "to_number": "whatsapp:+5511999999999",
+    "group_id": "whatsapp:SEU_GROUP_ID"
+  },
+  "check_interval": 300
+}
