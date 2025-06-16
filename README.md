@@ -33,10 +33,10 @@
 <hr> 
 
 <p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-tecnolgias">Technologias</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-observações">Observações</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
@@ -59,11 +59,12 @@ Projeto para automatizar Emails de chamados dos postos de saúde, enviar chamado
 As seguintes ferramentas foram usadas neste projeto:
 
 - [Python](https://www.python.org/)
+- [FireBase](http://firebase.google.com)
 
 
-## :white_check_mark: Requirements ##
+## :white_check_mark: Observações ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Após Clonar o repositório :checkered_flag:, você precisa configurar o firebase_config com os valores do seu projeto no firebase.
 
 ## :checkered_flag: Starting ##
 
