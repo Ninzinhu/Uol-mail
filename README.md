@@ -52,7 +52,7 @@ Projeto para automatizar Emails de chamados dos postos de saúde, enviar chamado
 
 :heavy_check_mark: Lê emails e seleciona os com as keywords ativadas ;\
 :heavy_check_mark: Envia os emais lidos para verificação ;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Envia os chamados para o número de Whatsapp especifico ou Grupos via GroupID;
 
 ## :rocket: Tecnolgias ##
 
